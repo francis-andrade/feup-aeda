@@ -1,0 +1,18 @@
+Minis
+2
+5/04/2016 ; 1 ; 5 ; 2 ; 3 0                                            Leixoes;1 0                                            Benfica;0 ; 
+21/04/2016 ; 0 ; 3 ; 2 ; 5 0                                            Salgueiros;7 0                                            Boavista;2 ; Antonio Sousa ; Ricardo Goncalves ; 
+Juveniles
+2
+19/11/2016 ; 1 ; 5 ; 2 ; 1 3                                          Senhora da Hora;2 1                                          Vila Real;0 ; 
+20/11/2016 ; 1 ; 1 ; 1 ; 4 1                                        Maia;0 ; 
+Juniors
+1
+31/12/2016 ; 1 ; 0 ; 0 ; 0 ; 
+Seniors
+5
+18/11/2016 ; 1 ; 2 ; 2 ; 3 2                                       Pedras Rubras;8 1                                       Leixoes;1 ; Ronaldinho ; 
+18/11/2016 ; 1 ; 3 ; 1 ; 1 0     Porto;4 ; Ronaldinho ; Ricardo Carvalho ; Cristiano Ronaldo ; Zico ; 
+18/11/2016 ; 1 ; 2 ; 1 ; 3 1     Sporting;4 ; Ronaldinho ; Ricardo Carvalho ; Cristiano Ronaldo ; Zico ; 
+18/12/2016 ; 0 ; 1 ; 3 ; 4 0                              leca;4 2                              Porto;1 1                              Benfica;2 ; Cristiano Ronaldo ; Zico ; 
+1/01/2017 ; 0 ; 1 ; 1 ; 1 0     Leixoes;3 ; Cristiano Ronaldo ; Jose Alvalade ; Ronaldinho ; 
